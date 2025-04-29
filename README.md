@@ -92,7 +92,9 @@ An organization experienced a data breach at 7:20 p.m., compromising 50,000 cust
 ## Metrics
 
 **Time to Detection**: 2 days (from first email to security team action).
+
 **Records Compromised**: 50,000 (verified via DLP).
+
 **Cost of Incident**: $100,000 (direct costs, revenue loss).
 
 ## Lessons Learned
@@ -162,7 +164,9 @@ As a cybersecurity analyst for an e-commerce company, I identified a publicly ac
 ## Reflections
 
 **Incident Type**: Proactive vulnerability assessment.
+
 **Root Cause**: Publicly accessible database server.
+
 **Solution**: Scan vulnerabilities, implement RBAC, upgrade TLS, monitor logs.
 
 ## Continuous Improvement
